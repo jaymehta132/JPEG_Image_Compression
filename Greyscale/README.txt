@@ -1,0 +1,2 @@
+- GreyScaleJPEG is the actual code for the JPEG compression algorithm implemented by us.
+- main.m and process_and_compress.m are MATLAB scripts to simulate JPEG compression by MATLAB for benchmarking purposes.
