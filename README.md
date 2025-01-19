@@ -71,8 +71,8 @@ The following datasets were used:
 ## How to Run
 1. Clone the repository
    ```bash
-   git clone https://github.com/jaymehta132/JPEG_Image_Compression.git
-   cd JPEG_Image_Compression
+   git clone https://github.com/jaymehta132/JPEG_Image_Compression/jpeg-image-compression.git
+   cd jpeg-image-compression
    ```
 2. Run the JPEG Compression files
 
